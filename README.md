@@ -30,6 +30,6 @@
 > - You can download the current version of the game [_here_](https://drive.google.com/file/d/1Wyl-D9j0449leQb8HpPS7bIONa0yaa2U/view?usp=sharing).
 
 
-                                                  Thank you for checking out my repository! 😄
+                                                  Thank you for checking out my repository! 😁
 
  
