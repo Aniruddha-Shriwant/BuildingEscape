@@ -29,7 +29,7 @@
 ## _Downloads_
 > - You can download the current version of the game [_here_](https://drive.google.com/file/d/1Wyl-D9j0449leQb8HpPS7bIONa0yaa2U/view?usp=sharing).
 
----
-                                                  **_Thank you for checking out my repository!_** 😄
----
+
+                                                  Thank you for checking out my repository! 😄
+
  
