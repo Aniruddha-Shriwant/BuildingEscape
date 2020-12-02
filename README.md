@@ -8,10 +8,10 @@
 
 ## _Game Rules_
 > - You are lost in a haunted building.
-> - To escape and win the game, you must find and steal a golden statue.
->   (It looks something like this.)
 > - You will encounter a lot of traps and puzzles.
 > - You will need to observe and interact with your surroundings to solve in-game puzzles.
+> - To escape and win the game, you must find and steal a golden statue.
+>   (It looks something like this.)
 
 >>  ![Statue](https://lh4.googleusercontent.com/GAa1KOKrG5PnMpL5kHvPvwJLmGurPEA5ZeWPAM5-mHM_5sp7zbGLAV7tzG2Tnx4QFgfxe5Y60UXpQvNptyyJw3YHFs-M7KMv8dO8fEzHG_cIucoiDFhrx7QwJKlK4DkwS-gAya0h)
 
